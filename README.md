@@ -49,9 +49,9 @@ Chrome is now the most popular browser, thanks to Android. It **will** eat every
 
 ### Project Directory Structure
 
-I realise now that I haven't built a flat website in *years*.
+Depending on the project requirements there is literally *hundreds* of perscribed project structures.
 
-**A very basic structure**
+The following configuration is as "flat" as possible. Linking assets to pages 
 
 ```
 basic.com/
@@ -70,13 +70,16 @@ basic.com/
 
 ## Hosting and Domain Management
 
-How much time have you got and how deep are your pockets?
+How much time have you got and how deep are your pockets? As you're setting up a static website I recommend spending as *little* as possible. The only other consideration to bear in mind is email hosting.
 
 ### Hosting
 
+Shop around
+
 * [Github Pages](https://pages.github.com/) Free!
-* [Blacknight](https://www.blacknight.com/) 5 euro a month
+* [Blacknight](https://www.blacknight.com/) 5.00 euro a month
 * [Amazon Web Services](https://aws.amazon.com/getting-started/projects/host-static-website/) A few cents a month
+* [Go Daddy](https://ie.godaddy.com) 2.50 euro a month
 
 ### Buy a Domain Name
 
@@ -84,10 +87,12 @@ Prices range from 1 to 50 euro
 
 * [Godaddy](https://ie.godaddy.com/)
 * [Blacknight](https://www.blacknight.com/)
+* Too many to list
 
 ## Font Management
 
 ## Image Management And Optimisation
+
 
 * [OptiPNG](http://optipng.sourceforge.net/)
 * [Pngcrush](https://pmt.sourceforge.io/pngcrush/)
@@ -100,4 +105,18 @@ Prices range from 1 to 50 euro
 * [fabric.js](http://fabricjs.com/)
 * [paper.js](http://paperjs.org/)
 * [parralax.js](http://matthew.wagerfield.com/parallax/)
+* [instafeed.js](http://instafeedjs.com/)
+
+## Previous Student Sites
+
+http://www.kulecka.com/index.html
+
+http://ericlynchdesign.com/
+
+http://www.stinasandstrom.com/
+
+http://rubycorcoran.com/
+
+http://shaunabuckley.com/?
+
 
