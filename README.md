@@ -18,6 +18,10 @@ An IDE (Integrated Development Environment) isn't strictly necessary, but can ma
 * Syntax hightlighting
 * Debugging tools
 
+### Domain Name White list
+
+Please add your name and domain name onto [this spreadsheet](https://docs.google.com/spreadsheets/d/1CBAQCh-eoaXOWpcf7MJzwcac6YvXnQXN08djvV-n7sA/edit?usp=sharing)
+
 ### Brackets
 
 [Adobe Brackets](http://brackets.io/) seems pretty cool, I'll check it out.
