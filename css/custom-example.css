@@ -7,8 +7,6 @@ Custom CSS
 body{
   background-color: gray;
   padding-top: 100px;
-  font-family: 'Montserrat';
-  font-style: italic;
 }
 
 /* 
@@ -46,6 +44,8 @@ Extra large   ≥1200px   .col-xl-
   div[class^="col"]{
     border-style: solid;
     border-color:blue;
+    font-family: 'Montserrat';
+    font-style: italic;
   }
 }
 
