@@ -129,3 +129,5 @@ This rule will set the `border-style` and `border-color` when the screen has a m
 # Going Further
 
 There are hundreds of example on the [Bootstrap Website](https://getbootstrap.com/docs/4.1/layout/grid/), please look through them.
+
+[Z index fiddle](https://jsfiddle.net/g8bz9Leh/)
